@@ -1,0 +1,30 @@
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\bin\Debug\ActiveMVC.exe.config
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\bin\Debug\ActiveMVC.exe
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\bin\Debug\ActiveMVC.pdb
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\obj\Debug\ActiveMVC.csprojResolveAssemblyReference.cache
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\obj\Debug\ActiveMVC.ActiveMVCForm.resources
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\obj\Debug\ActiveMVC.Properties.Resources.resources
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\obj\Debug\ActiveMVC.csproj.GenerateResource.cache
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\obj\Debug\ActiveMVC.csproj.CoreCompileInputs.cache
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\obj\Debug\ActiveMVC.exe
+C:\Users\Sk\Documents\obs\ patterns\Урок 8\Lesson8\HomeWork1\obj\Debug\ActiveMVC.pdb
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\bin\Debug\ActiveMVC.exe.config
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\bin\Debug\ActiveMVC.exe
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\bin\Debug\ActiveMVC.pdb
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\obj\Debug\ActiveMVC.csprojAssemblyReference.cache
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\obj\Debug\ActiveMVC.ActiveMVCForm.resources
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\obj\Debug\ActiveMVC.Properties.Resources.resources
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\obj\Debug\ActiveMVC.csproj.GenerateResource.cache
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\obj\Debug\ActiveMVC.csproj.CoreCompileInputs.cache
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\obj\Debug\ActiveMVC.exe
+E:\Разработка\Учеба\Дополнительные курсы\Архитектуры и шаблоны проектирования на C#\Код\Lesson_8\Forms\HomeWork1\obj\Debug\ActiveMVC.pdb
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\bin\Debug\ActiveMVC.exe.config
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\bin\Debug\ActiveMVC.exe
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\bin\Debug\ActiveMVC.pdb
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\obj\Debug\ActiveMVC.csprojResolveAssemblyReference.cache
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\obj\Debug\ActiveMVC.ActiveMVCForm.resources
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\obj\Debug\ActiveMVC.Properties.Resources.resources
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\obj\Debug\ActiveMVC.csproj.GenerateResource.cache
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\obj\Debug\ActiveMVC.csproj.CoreCompileInputs.cache
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\obj\Debug\ActiveMVC.exe
+C:\Users\Cheshire\Desktop\Forms\HomeWork1\obj\Debug\ActiveMVC.pdb
